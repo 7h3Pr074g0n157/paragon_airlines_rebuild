@@ -30,8 +30,8 @@ main {
 }
 
 .bg-blur {
-  background-color: red;
-  backdrop-filter: blur(10px);
+  /* background-color: red; */
+  backdrop-filter: blur(50px);
 }
 
 .headline {
