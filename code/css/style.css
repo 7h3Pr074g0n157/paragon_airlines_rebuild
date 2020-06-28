@@ -30,7 +30,7 @@ main {
 }
 
 .bg-blur {
-  background-color: transparent;
+  background-color: red;
   backdrop-filter: blur(10px);
 }
 
